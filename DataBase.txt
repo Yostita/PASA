@@ -1,0 +1,15 @@
+Paco;Marzal;director;25;1970;98;direccion;false
+Javier;Camara;director;25;1970;90;controlderobots;false
+Alfonso;Barrena;director;25;1970;87;sistemasinformaticos;false
+Pantumacas;Alonso;director;25;1970;82;construccionymantenimiento;false
+Jaime;Martinez;director;23;1972;90;medico;false
+Claudia;Aragones;director;24;1973;95;investigacionastronomica;false
+Luis;Crespo;director;24;1973;92;cometologia;false
+Crowned;Noah;director;22;1970;91;navegacion;false
+Alvaro;Reina;director;24;1968;92;investigacionbiologica;false
+Javier;Garcia;subdirector;25;1970;90;direccion;true
+Hugo;Bosque;subdirector;12;1980;85;logistica;false
+Imanol;Ochoa;subdirector;11;1982;60;medico;false
+Javier;Celma;responsable;10;1975;73;direccion;false
+Eduardo;Ciber;coordinador;6;1970;81;investigacionastronomica;true
+Sergio;Tahoces;operario;1;1997;2;construccionymantenimiento;false

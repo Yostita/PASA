@@ -1,0 +1,9 @@
+Nombre: Hugo
+Apellido: Bosque
+Cargo: subdirector
+Experiencia: 12
+Fecha de nacimiento: 1980
+Puntos de habilidad: 85
+Departamento: logistica
+Percel: false
+
